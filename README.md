@@ -10,8 +10,8 @@ build.sh(これはg++を想定しています)を実行することでこのソ�
 使い方はSbitW/todo-go-cuiと同じですが、デフォルトのbuild.shを使った場合、'todo'は'cptodo'となります。<br>
 このソフトウェアはgithub.com/nlohmann/jsonを用いています。<br>
 表示言語は現時点で日本語のみです。<br>
-##ライセンス (License)
+## ライセンス (License)
 This software is published under [GPLv3](LICENSE).<br>
 このソフトウェアは[GPLv3](LICENSE)の元で公開されています。<br>
-###外部ライブラリ (Third-party Libraries)
+### 外部ライブラリ (Third-party Libraries)
 * [nlohmann/json](https://github.com/nlohmann/json) - MIT License (`external/json.hpp`内に原著作者の著作権表記を含む。GPLv3と互換性あり)
